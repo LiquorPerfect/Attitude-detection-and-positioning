@@ -31,7 +31,8 @@ classes = ["shoe","glasses","boxes","stationery","books",
 
 类别一共有20各类型，如上所示。
 
-百度云盘地址：
+百度云盘地址：链接：https://pan.baidu.com/s/11Z3S5_5_RxYHv48rn02J9g  提取码：c0q8 
+
 
 ## 04_dataset文件夹介绍
 
