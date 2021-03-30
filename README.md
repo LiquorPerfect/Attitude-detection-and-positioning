@@ -96,9 +96,7 @@ transform_annotation -> annotation
 
 将txt文件生成检测标注xml信息，自己百度找脚本。
 
-百度云盘地址：
-
-
+百度云盘地址：链接：https://pan.baidu.com/s/1RYUtMBxg2DHiVN9P-RARtA  提取码：3eyn 
 
 数据集可以根据自己需求进行扩充，自己改进。我这边仅提供最基础和最必须的工具和数据集。
 
